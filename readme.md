@@ -1,0 +1,1 @@
+This directory will contain all the projects that I will work on during my time at CodingDojo.
